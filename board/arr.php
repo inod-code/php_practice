@@ -1,6 +1,7 @@
 <?php
  // アクセスURL：http://localhost/board/arr.php
- 
+ // マージテスト
+
  $var=1;
  $var2='1';
  $name='井上';
