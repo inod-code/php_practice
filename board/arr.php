@@ -1,6 +1,6 @@
 <?php
  // アクセスURL：http://localhost/board/arr.php
- // マージテスト
+ // githubで変更
 
  $var=1;
  $var2='1';
