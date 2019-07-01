@@ -8,7 +8,7 @@
 <html lang="ja">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<title>1.if文振り返り</title>
+<title>if文</title>
 </head>
 <body>
 
