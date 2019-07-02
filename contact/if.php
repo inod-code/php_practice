@@ -1,6 +1,5 @@
 <?php
 // アクセスURL：http://localhost/contact/if.php
-// git追加test
 ?>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
